@@ -127,8 +127,10 @@
         <mxCell id="-tygpLncmEEJym6LiCeQ-65" value="项&lt;div&gt;目&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="740" y="-419" width="70" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="i3etY4S08DB5Jj5jPhMk-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-tygpLncmEEJym6LiCeQ-66" target="i3etY4S08DB5Jj5jPhMk-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="i3etY4S08DB5Jj5jPhMk-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-tygpLncmEEJym6LiCeQ-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="888" y="-159" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-tygpLncmEEJym6LiCeQ-66" value="项&lt;div&gt;目&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;资&lt;/span&gt;&lt;/div&gt;&lt;div&gt;料&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="853" y="-419" width="70" height="140" as="geometry" />
@@ -145,8 +147,8 @@
         <mxCell id="-tygpLncmEEJym6LiCeQ-72" value="签&lt;div&gt;章&lt;/div&gt;&lt;div&gt;流&lt;/div&gt;&lt;div&gt;程&lt;/div&gt;&lt;div&gt;追&lt;/div&gt;&lt;div&gt;踪&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="1354" y="-419" width="70" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="i3etY4S08DB5Jj5jPhMk-6" value="" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="828" y="-159" width="120" height="60" as="geometry" />
+        <mxCell id="i3etY4S08DB5Jj5jPhMk-8" value="登&lt;div&gt;录&lt;/div&gt;&lt;div&gt;验&lt;/div&gt;&lt;div&gt;证&lt;/div&gt;&lt;div&gt;功&lt;/div&gt;&lt;div&gt;能&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="363" y="-280" width="70" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
