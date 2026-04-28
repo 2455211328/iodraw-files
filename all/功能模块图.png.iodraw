@@ -178,9 +178,6 @@
         <mxCell id="i3etY4S08DB5Jj5jPhMk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.019;entryY=0.604;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-tygpLncmEEJym6LiCeQ-21" target="i3etY4S08DB5Jj5jPhMk-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i3etY4S08DB5Jj5jPhMk-25" value="撤&lt;div&gt;回&lt;/div&gt;&lt;div&gt;审&lt;/div&gt;&lt;div&gt;批&lt;/div&gt;&lt;div&gt;申&lt;/div&gt;&lt;div&gt;请&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="-215" width="70" height="140" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
