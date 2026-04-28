@@ -172,16 +172,14 @@
         <mxCell id="i3etY4S08DB5Jj5jPhMk-15" value="撤&lt;div&gt;回&lt;/div&gt;&lt;div&gt;审&lt;/div&gt;&lt;div&gt;批&lt;/div&gt;&lt;div&gt;申&lt;/div&gt;&lt;div&gt;请&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1175" y="-225" width="70" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="i3etY4S08DB5Jj5jPhMk-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i3etY4S08DB5Jj5jPhMk-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1348" y="-159" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="i3etY4S08DB5Jj5jPhMk-20" value="电&lt;div&gt;子&lt;/div&gt;&lt;div&gt;签&lt;/div&gt;&lt;div&gt;章&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1313" y="-419" width="70" height="140" as="geometry" />
         </mxCell>
         <mxCell id="i3etY4S08DB5Jj5jPhMk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.019;entryY=0.604;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-tygpLncmEEJym6LiCeQ-21" target="i3etY4S08DB5Jj5jPhMk-20">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3etY4S08DB5Jj5jPhMk-25" value="撤&lt;div&gt;回&lt;/div&gt;&lt;div&gt;审&lt;/div&gt;&lt;div&gt;批&lt;/div&gt;&lt;div&gt;申&lt;/div&gt;&lt;div&gt;请&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="-215" width="70" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
