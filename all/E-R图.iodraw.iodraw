@@ -795,7 +795,7 @@
           <mxGeometry x="-265" y="1383" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-249" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;审批类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-498" y="1269" width="110" height="60" as="geometry" />
+          <mxGeometry x="-487" y="1252" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-250" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;平台id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-404" y="1403" width="110" height="60" as="geometry" />
@@ -921,7 +921,7 @@
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-278" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;提交者编号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-504" y="1346" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DCqAaorEO9E7Hcvp5MIb-279" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCqAaorEO9E7Hcvp5MIb-278" target="DCqAaorEO9E7Hcvp5MIb-243">
+        <mxCell id="DCqAaorEO9E7Hcvp5MIb-279" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCqAaorEO9E7Hcvp5MIb-278" target="DCqAaorEO9E7Hcvp5MIb-243">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-51" y="1306" as="sourcePoint" />
             <mxPoint x="-468" y="1331" as="targetPoint" />
