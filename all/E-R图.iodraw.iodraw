@@ -393,16 +393,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-110" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;管理员姓名&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="614" width="110" height="60" as="geometry" />
+          <mxGeometry x="1180" y="615" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-111" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;平台名&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="571" width="110" height="60" as="geometry" />
+          <mxGeometry x="1020" y="579" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-112" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;平台编号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="771" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-113" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;模板文件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="671" width="120" height="60" as="geometry" />
+          <mxGeometry x="1049" y="671" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-114" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCqAaorEO9E7Hcvp5MIb-113" target="DCqAaorEO9E7Hcvp5MIb-112">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -417,7 +417,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-116" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;管理员手机号&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="721" width="110" height="60" as="geometry" />
+          <mxGeometry x="1188" y="699" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-117" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCqAaorEO9E7Hcvp5MIb-113" target="DCqAaorEO9E7Hcvp5MIb-116">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -480,7 +480,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-133" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;包含&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="907" y="661" width="120" height="80" as="geometry" />
+          <mxGeometry x="900" y="661" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-135" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCqAaorEO9E7Hcvp5MIb-119" target="DCqAaorEO9E7Hcvp5MIb-133">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
