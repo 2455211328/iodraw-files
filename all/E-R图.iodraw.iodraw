@@ -1306,7 +1306,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-422" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;签章记录id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="416" y="1487" width="110" height="60" as="geometry" />
+          <mxGeometry x="615" y="1545" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DCqAaorEO9E7Hcvp5MIb-423" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;项目资料id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="464" y="1533" width="115" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
