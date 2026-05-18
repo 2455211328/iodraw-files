@@ -918,6 +918,9 @@
             <mxPoint x="38" y="1319" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DCqAaorEO9E7Hcvp5MIb-278" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;平台id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-651" y="1342" width="110" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
