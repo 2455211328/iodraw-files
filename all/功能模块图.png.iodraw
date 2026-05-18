@@ -104,7 +104,7 @@
           <mxGeometry x="34" y="-434" width="130" height="61" as="geometry" />
         </mxCell>
         <mxCell id="-tygpLncmEEJym6LiCeQ-51" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;模&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;板&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;分&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;类&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;管&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;理&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="497" y="-419" width="66" height="219" as="geometry" />
+          <mxGeometry x="497" y="-419" width="66" height="212" as="geometry" />
         </mxCell>
         <mxCell id="-tygpLncmEEJym6LiCeQ-52" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;模&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;板&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;文&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;件&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;管&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;理&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="610" y="-419" width="68" height="210" as="geometry" />
@@ -133,7 +133,7 @@
         <mxCell id="i3etY4S08DB5Jj5jPhMk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-tygpLncmEEJym6LiCeQ-66" target="i3etY4S08DB5Jj5jPhMk-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-tygpLncmEEJym6LiCeQ-66" value="项&lt;div&gt;目&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;资&lt;/span&gt;&lt;/div&gt;&lt;div&gt;料&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="-tygpLncmEEJym6LiCeQ-66" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;项&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;目&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;资&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;料&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;管&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;理&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="853" y="-419" width="70" height="140" as="geometry" />
         </mxCell>
         <mxCell id="i3etY4S08DB5Jj5jPhMk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-tygpLncmEEJym6LiCeQ-69" target="i3etY4S08DB5Jj5jPhMk-13" edge="1">
