@@ -1142,7 +1142,7 @@
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-379" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;审批提交者用户id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="587.5" y="1542" width="151" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DCqAaorEO9E7Hcvp5MIb-380" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="DCqAaorEO9E7Hcvp5MIb-380" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCqAaorEO9E7Hcvp5MIb-379" target="DCqAaorEO9E7Hcvp5MIb-344">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1046" y="1554" as="sourcePoint" />
             <mxPoint x="1096" y="1504" as="targetPoint" />
