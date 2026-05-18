@@ -85,8 +85,8 @@
         <mxCell id="-tygpLncmEEJym6LiCeQ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-tygpLncmEEJym6LiCeQ-22" target="-tygpLncmEEJym6LiCeQ-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-tygpLncmEEJym6LiCeQ-22" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;项目审批管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1123" y="-538" width="130" height="55" as="geometry" />
+        <mxCell id="-tygpLncmEEJym6LiCeQ-22" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;项目审批管理模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1123" y="-538" width="208" height="55" as="geometry" />
         </mxCell>
         <mxCell id="-tygpLncmEEJym6LiCeQ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-tygpLncmEEJym6LiCeQ-34" target="-tygpLncmEEJym6LiCeQ-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
