@@ -1221,7 +1221,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DCqAaorEO9E7Hcvp5MIb-402" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;签章类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DCqAaorEO9E7Hcvp5MIb-402" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;印章id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="552" y="1345" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-403" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;印章图片&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1240,6 +1240,9 @@
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-407" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;印章名称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="581" y="1405" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DCqAaorEO9E7Hcvp5MIb-408" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;印章名称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="1452" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
