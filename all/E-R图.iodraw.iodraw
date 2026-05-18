@@ -523,7 +523,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-145" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;审批信息&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1028" y="471" width="110" height="60" as="geometry" />
+          <mxGeometry x="1017" y="537" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DCqAaorEO9E7Hcvp5MIb-146" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCqAaorEO9E7Hcvp5MIb-113" target="DCqAaorEO9E7Hcvp5MIb-145">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="963" y="664" as="sourcePoint" />
+            <mxPoint x="1013" y="614" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
