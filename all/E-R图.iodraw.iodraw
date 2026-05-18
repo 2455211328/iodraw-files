@@ -1311,8 +1311,11 @@
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-423" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;项目资料文件id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1539" width="126" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="DCqAaorEO9E7Hcvp5MIb-424" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;签章提交者用户id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="1620" width="110" height="60" as="geometry" />
+        <mxCell id="DCqAaorEO9E7Hcvp5MIb-425" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;签章提交者用户id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="1608" width="151" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DCqAaorEO9E7Hcvp5MIb-426" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;平台id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="1680" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
