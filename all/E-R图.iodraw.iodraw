@@ -861,7 +861,7 @@
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-264" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;项目资料id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247" y="1213" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DCqAaorEO9E7Hcvp5MIb-265" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;角色描述&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DCqAaorEO9E7Hcvp5MIb-265" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;创建者id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="297" y="1286" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-266" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;签章权&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
