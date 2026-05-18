@@ -31,7 +31,7 @@
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-12" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="60" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DCqAaorEO9E7Hcvp5MIb-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DCqAaorEO9E7Hcvp5MIb-13" value="公司名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="500" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-14" value="公司类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
