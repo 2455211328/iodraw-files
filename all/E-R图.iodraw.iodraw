@@ -862,27 +862,18 @@
           <mxGeometry x="247" y="1213" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-265" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;审批提交者用户id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="297" y="1286" width="110" height="60" as="geometry" />
+          <mxGeometry x="281" y="1306" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-266" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;平台编号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4" y="1391" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DCqAaorEO9E7Hcvp5MIb-267" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;审批权&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="133" y="1408" width="110" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-268" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;审批状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="277" y="1376" width="110" height="60" as="geometry" />
+          <mxGeometry x="167" y="1389" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-270" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCqAaorEO9E7Hcvp5MIb-266" target="DCqAaorEO9E7Hcvp5MIb-256">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="114" y="1548" as="sourcePoint" />
             <mxPoint x="164" y="1498" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DCqAaorEO9E7Hcvp5MIb-271" value="" style="endArrow=none;html=1;rounded=0;exitX=0.336;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCqAaorEO9E7Hcvp5MIb-267" target="DCqAaorEO9E7Hcvp5MIb-256">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-12" y="1369" as="sourcePoint" />
-            <mxPoint x="38" y="1319" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-272" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DCqAaorEO9E7Hcvp5MIb-265" target="DCqAaorEO9E7Hcvp5MIb-256">
