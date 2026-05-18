@@ -60,12 +60,12 @@
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-21" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DCqAaorEO9E7Hcvp5MIb-20">
           <mxGeometry x="0.7043" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="2" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-22" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DCqAaorEO9E7Hcvp5MIb-20">
           <mxGeometry x="-0.513" y="-1" relative="1" as="geometry">
-            <mxPoint y="-11" as="offset" />
+            <mxPoint x="-8" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
