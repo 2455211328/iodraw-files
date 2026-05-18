@@ -35,7 +35,7 @@
           <mxGeometry x="100" y="400" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-14" value="公司类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="90" width="110" height="60" as="geometry" />
+          <mxGeometry x="365" y="150" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DCqAaorEO9E7Hcvp5MIb-15" value="公司编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="190" width="110" height="60" as="geometry" />
@@ -140,6 +140,9 @@
             <mxPoint x="130" y="590" as="sourcePoint" />
             <mxPoint x="180" y="540" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DCqAaorEO9E7Hcvp5MIb-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
