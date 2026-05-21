@@ -73,10 +73,13 @@
         <mxCell id="8VDL_8lLni37mP1QSY4k-26" value="返回401未授权" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="437" y="565" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8VDL_8lLni37mP1QSY4k-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8VDL_8lLni37mP1QSY4k-22">
+        <mxCell id="8VDL_8lLni37mP1QSY4k-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8VDL_8lLni37mP1QSY4k-22" target="8VDL_8lLni37mP1QSY4k-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="632" y="483" as="sourcePoint" />
             <mxPoint x="682" y="433" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="497" y="516" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
