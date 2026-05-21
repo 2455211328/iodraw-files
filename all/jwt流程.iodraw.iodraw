@@ -38,9 +38,9 @@
             <mxPoint x="410.0000000000002" y="416.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8VDL_8lLni37mP1QSY4k-35" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8VDL_8lLni37mP1QSY4k-16">
+        <mxCell id="8VDL_8lLni37mP1QSY4k-35" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8VDL_8lLni37mP1QSY4k-16">
           <mxGeometry x="-0.5477" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8VDL_8lLni37mP1QSY4k-7" value="是否登录成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -86,6 +86,9 @@
               <mxPoint x="328" y="516" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8VDL_8lLni37mP1QSY4k-36" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="425.9655172413793" y="334.7241379310344" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
