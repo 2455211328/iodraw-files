@@ -28,7 +28,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8VDL_8lLni37mP1QSY4k-7" value="判断是否成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8VDL_8lLni37mP1QSY4k-7" value="是否成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="343" y="252" width="134" height="79" as="geometry" />
         </mxCell>
       </root>
