@@ -134,6 +134,9 @@
         <mxCell id="8VDL_8lLni37mP1QSY4k-49" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;跳转登录页&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="456" y="298" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="8VDL_8lLni37mP1QSY4k-55" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;跳转登录页&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="205.5" y="362" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
