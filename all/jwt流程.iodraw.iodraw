@@ -93,6 +93,9 @@
         <mxCell id="8VDL_8lLni37mP1QSY4k-37" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-50.99697910870128" y="507.00490406381243" as="geometry" />
         </mxCell>
+        <mxCell id="8VDL_8lLni37mP1QSY4k-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8VDL_8lLni37mP1QSY4k-39" target="8VDL_8lLni37mP1QSY4k-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8VDL_8lLni37mP1QSY4k-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户访问系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="331.5" y="98" width="120" height="40" as="geometry" />
         </mxCell>
@@ -110,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8VDL_8lLni37mP1QSY4k-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;是否存在token&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="331.5" y="217" width="120" height="65" as="geometry" />
+          <mxGeometry x="331.5" y="230" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="8VDL_8lLni37mP1QSY4k-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户访问系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="197" y="298" width="120" height="40" as="geometry" />
