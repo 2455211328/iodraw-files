@@ -21,12 +21,6 @@
         <mxCell id="8VDL_8lLni37mP1QSY4k-7" value="验证成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="343" y="252" width="134" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="8VDL_8lLni37mP1QSY4k-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="387" y="400" as="sourcePoint" />
-            <mxPoint x="437" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
