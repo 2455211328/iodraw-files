@@ -348,6 +348,9 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-36" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;资料提交签章&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-214" y="1465" width="111.69" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-39" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;资料提交签章&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-204" y="1475" width="111.69" height="68" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
