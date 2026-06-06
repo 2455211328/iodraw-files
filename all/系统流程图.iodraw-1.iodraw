@@ -337,7 +337,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-31" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户维护项目资料&lt;br&gt;（&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;上传/编辑/删除/预览&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-359.69" y="1325" width="219.63" height="52" as="geometry" />
+          <mxGeometry x="-351.21" y="1278" width="202.69" height="52" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-33" target="rqbJDW2FjRhRCuasB_gC-39">
           <mxGeometry relative="1" as="geometry" />
