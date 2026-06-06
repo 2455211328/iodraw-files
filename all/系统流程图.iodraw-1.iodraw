@@ -709,20 +709,16 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-293" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;在线预览文件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-219" y="3202" width="135" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="rqbJDW2FjRhRCuasB_gC-299" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-295" target="rqbJDW2FjRhRCuasB_gC-298">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-299" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.058;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-295" target="rqbJDW2FjRhRCuasB_gC-301">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-31.5" y="3145.000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-295" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;选择印章并拖拽到签章位置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-219" y="3123" width="135" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="rqbJDW2FjRhRCuasB_gC-298" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;点击保存签章&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-31.5" y="3123" width="135" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="rqbJDW2FjRhRCuasB_gC-300" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-29.5" y="3204" width="135" height="44" as="geometry" />
-        </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-301" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;选择审批结果&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="131" y="3258" width="154.31" height="64" as="geometry" />
+          <mxGeometry x="-19" y="3113" width="154.31" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
