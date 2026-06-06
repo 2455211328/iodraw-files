@@ -306,9 +306,6 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-42" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结束&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-299.06" y="1521" width="98.38" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="rqbJDW2FjRhRCuasB_gC-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-48" target="rqbJDW2FjRhRCuasB_gC-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-48" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;开始&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="229.00000000000003" y="1091" width="98.38" height="46" as="geometry" />
         </mxCell>
