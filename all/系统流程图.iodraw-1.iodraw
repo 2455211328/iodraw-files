@@ -277,10 +277,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;模板分类管理&lt;br&gt;（新增/编辑/删除/查询）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="152" y="1185" width="193" height="51" as="geometry" />
+          <mxGeometry x="111.13" y="1185" width="193" height="51" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;后端检验分类信息并保存到数据库&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="128.04" y="1291" width="183.25" height="49" as="geometry" />
+          <mxGeometry x="116" y="1288" width="183.25" height="49" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-9" target="rqbJDW2FjRhRCuasB_gC-11">
           <mxGeometry relative="1" as="geometry" />
