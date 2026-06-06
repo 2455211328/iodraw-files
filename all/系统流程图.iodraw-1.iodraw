@@ -591,8 +591,8 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-186" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;后端更新项目状态并生成审批记录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-195.15" y="2762" width="156.31" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="rqbJDW2FjRhRCuasB_gC-189" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;申请人员查询审批流程&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="6.689999999999998" y="2696" width="156.31" height="53" as="geometry" />
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-189" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;申请人员查询审批金盾&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="6.69" y="2696" width="186.31" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
