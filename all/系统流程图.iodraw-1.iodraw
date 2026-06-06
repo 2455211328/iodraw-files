@@ -396,6 +396,19 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-77" target="rqbJDW2FjRhRCuasB_gC-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-84" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rqbJDW2FjRhRCuasB_gC-82">
+          <mxGeometry x="0.2418" y="3" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-85" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rqbJDW2FjRhRCuasB_gC-82">
+          <mxGeometry x="0.2943" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-77" target="rqbJDW2FjRhRCuasB_gC-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-77" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;信息是否有效&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370.65000000000003" y="1905" width="154.31" height="64" as="geometry" />
         </mxCell>
