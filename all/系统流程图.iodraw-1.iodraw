@@ -472,7 +472,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-146" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;选择资料操作&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-188.37" y="2467" width="137.5" height="50" as="geometry" />
+          <mxGeometry x="-186.75" y="2467" width="134.37" height="42" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-148" target="rqbJDW2FjRhRCuasB_gC-149">
           <mxGeometry relative="1" as="geometry" />
@@ -553,10 +553,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-171" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;资料提交审批&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-196" y="2556" width="144" height="40" as="geometry" />
+          <mxGeometry x="-192.25" y="2551" width="144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-172" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;文件提交签章&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-19.00000000000003" y="2522" width="153" height="50" as="geometry" />
+          <mxGeometry x="-9.000000000000028" y="2521" width="153" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
