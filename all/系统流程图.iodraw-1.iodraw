@@ -582,11 +582,17 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-181" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;开始&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-354.99999999999994" y="2691" width="98.38" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-188" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-185" target="rqbJDW2FjRhRCuasB_gC-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-185" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户提交审批申请&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-379.21" y="2766.5" width="146.81" height="44" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-186" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;后端更新项目状态并生成审批记录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-178.31" y="2757.5" width="156.31" height="53" as="geometry" />
+          <mxGeometry x="-195.15" y="2762" width="156.31" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-189" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;后端更新项目状态并生成审批记录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-185.15" y="2772" width="156.31" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
