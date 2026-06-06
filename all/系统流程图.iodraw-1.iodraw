@@ -312,7 +312,7 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-18" target="rqbJDW2FjRhRCuasB_gC-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rqbJDW2FjRhRCuasB_gC-18" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;模板文件管理&lt;br&gt;（上传/编辑/删除/查询）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-18" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;项目资料管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-211.5" y="1165" width="189.5" height="68" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-16" target="rqbJDW2FjRhRCuasB_gC-22">
@@ -330,7 +330,7 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-22" target="rqbJDW2FjRhRCuasB_gC-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rqbJDW2FjRhRCuasB_gC-22" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;项目信息管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-22" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;项目信息管理&lt;br&gt;（新建/编辑）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-496.5" y="1165" width="189.5" height="68" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;后端检验分类信息并保存到数据库&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
