@@ -692,7 +692,7 @@
           <mxGeometry x="-407" y="3209.5" width="146.81" height="44" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-286" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;选择操作类型&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-216.99999999999997" y="3199.5" width="154.31" height="64" as="geometry" />
+          <mxGeometry x="-226.99999999999997" y="3199.5" width="154.31" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
