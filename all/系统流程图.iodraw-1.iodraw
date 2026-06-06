@@ -712,6 +712,9 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-295" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;选择印章并拖拽到签章位置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-219" y="3123" width="135" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-298" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;选择印章并拖拽到签章位置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-31.5" y="3123" width="135" height="44" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
