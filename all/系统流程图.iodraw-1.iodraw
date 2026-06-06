@@ -691,8 +691,14 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-258" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;进入签章管理界面&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-407" y="3209.5" width="146.81" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-291" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-288" target="rqbJDW2FjRhRCuasB_gC-290">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-288" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;上传/维护印章图片&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-411.59999999999997" y="3283" width="156.01" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-290" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;选择待签章文件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-218.99999999999997" y="3283" width="156.01" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
