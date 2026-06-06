@@ -622,7 +622,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-196" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;审批通过&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420.5" y="2811.25" width="100.5" height="36.5" as="geometry" />
+          <mxGeometry x="416.5" y="2811.25" width="100.5" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-215" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-197" target="rqbJDW2FjRhRCuasB_gC-214">
           <mxGeometry relative="1" as="geometry" />
@@ -661,7 +661,10 @@
           <mxGeometry x="405.9" y="2702.5" width="111.1" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-216" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;刷新审批状态并返回审批结果&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="574.5000000000001" y="2744.5" width="186.31" height="53" as="geometry" />
+          <mxGeometry x="586.0000000000001" y="2749" width="186.31" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-219" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;允许撤回重新审批&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="244.29" y="2936" width="153" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
