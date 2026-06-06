@@ -354,11 +354,14 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-63" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;上传/维护模板文件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="166" y="1926" width="153" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-65" target="rqbJDW2FjRhRCuasB_gC-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-65" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;检验文件信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="367.78999999999996" y="1926" width="153" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-67" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;信息是否有效&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="346.00000000000006" y="1751" width="154.31" height="64" as="geometry" />
+          <mxGeometry x="366.69000000000005" y="1751" width="154.31" height="64" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-68" target="rqbJDW2FjRhRCuasB_gC-67">
           <mxGeometry relative="1" as="geometry" />
