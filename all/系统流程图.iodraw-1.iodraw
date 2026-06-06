@@ -654,8 +654,8 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-214" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;保存驳回原因&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="405.9" y="2702.5" width="111.1" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rqbJDW2FjRhRCuasB_gC-216" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;审批人员进入审批项目&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="16.69" y="2813" width="186.31" height="53" as="geometry" />
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-216" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;刷新审批状态并返回审批结果&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="574.5000000000001" y="2744.5" width="186.31" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
