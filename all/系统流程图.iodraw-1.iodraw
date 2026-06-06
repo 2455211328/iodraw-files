@@ -621,6 +621,9 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-197" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;审批驳回&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="442" y="2838" width="144" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-200" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;选择审批结果&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="244.29" y="2807.5" width="154.31" height="64" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
