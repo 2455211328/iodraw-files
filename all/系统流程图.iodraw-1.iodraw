@@ -468,6 +468,9 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-146" target="rqbJDW2FjRhRCuasB_gC-148">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-146" target="rqbJDW2FjRhRCuasB_gC-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-146" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;选择资料操作&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-188.5" y="2463" width="137.5" height="50" as="geometry" />
         </mxCell>
@@ -552,8 +555,8 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-171" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;资料提交审批&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-191.75000000000003" y="2558" width="153" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rqbJDW2FjRhRCuasB_gC-172" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;资料提交签章&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-22.00000000000003" y="2600" width="153" height="50" as="geometry" />
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-172" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;文件提交签章&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-19.00000000000003" y="2522" width="153" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
