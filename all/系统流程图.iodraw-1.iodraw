@@ -621,6 +621,9 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-196" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;审批通过&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="434" y="2811.25" width="100.5" height="36.5" as="geometry" />
         </mxCell>
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-215" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-197" target="rqbJDW2FjRhRCuasB_gC-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-197" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;审批驳回&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="255.67999999999998" y="2702.5" width="110.21" height="40" as="geometry" />
         </mxCell>
@@ -648,8 +651,8 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-206" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;允许撤回重新审批&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="234.29" y="2926" width="153" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rqbJDW2FjRhRCuasB_gC-214" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;审批驳回&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="405.9" y="2702.5" width="110.21" height="40" as="geometry" />
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-214" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;保存驳回原因&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="405.9" y="2702.5" width="111.1" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
