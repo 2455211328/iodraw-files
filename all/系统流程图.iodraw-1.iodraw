@@ -330,7 +330,7 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-22" target="rqbJDW2FjRhRCuasB_gC-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rqbJDW2FjRhRCuasB_gC-22" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;模板分类管理&lt;br&gt;（新增/编辑/删除/查询）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-22" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;项目信息管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-496.5" y="1165" width="189.5" height="68" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;后端检验分类信息并保存到数据库&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
