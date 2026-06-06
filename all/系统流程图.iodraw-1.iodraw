@@ -508,7 +508,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-156" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;保存或更新项目数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360.81000000000006" y="2173" width="165" height="50" as="geometry" />
+          <mxGeometry x="365.31000000000006" y="2173" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-158" target="rqbJDW2FjRhRCuasB_gC-162">
           <mxGeometry relative="1" as="geometry" />
@@ -572,6 +572,9 @@
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-176" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;刷新资料状态&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="191.99999999999997" y="2584" width="153" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.462;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-176" target="rqbJDW2FjRhRCuasB_gC-162">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
