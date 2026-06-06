@@ -634,9 +634,9 @@
           <mxGeometry x="-5.799999999999997" y="2956" width="211.31" height="76" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-205" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="223" y="3025" width="153" height="50" as="geometry" />
+          <mxGeometry x="224.29" y="3025" width="153" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rqbJDW2FjRhRCuasB_gC-206" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-206" value="允许撤回重新审批" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="223" y="2926" width="153" height="50" as="geometry" />
         </mxCell>
       </root>
