@@ -342,6 +342,9 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-61" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;选择所属模板&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-16.5" y="1926" width="137.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-63" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;选择所属模板&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="157" y="1856" width="137.5" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
