@@ -258,7 +258,7 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;模板分类管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="191.29" y="1206" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rqbJDW2FjRhRCuasB_gC-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;模板文件管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;模板文件管理&lt;br&gt;（上传/编辑/删除/查询）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="411.5" y="1206" width="157.5" height="68" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-1" target="rqbJDW2FjRhRCuasB_gC-2">
