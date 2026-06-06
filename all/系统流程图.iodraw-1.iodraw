@@ -346,7 +346,7 @@
           <mxGeometry x="-382" y="1366" width="112" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-34" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结束&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="1573" width="123" height="60" as="geometry" />
+          <mxGeometry x="313.5" y="1573" width="98" height="37" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-36" target="rqbJDW2FjRhRCuasB_gC-39">
           <mxGeometry relative="1" as="geometry" />
