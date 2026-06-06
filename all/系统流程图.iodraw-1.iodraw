@@ -339,11 +339,14 @@
         <mxCell id="rqbJDW2FjRhRCuasB_gC-59" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;填写或选择模板分类信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-16.5" y="1758" width="137.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="rqbJDW2FjRhRCuasB_gC-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqbJDW2FjRhRCuasB_gC-61" target="rqbJDW2FjRhRCuasB_gC-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-61" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;选择所属模板&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-16.5" y="1926" width="137.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rqbJDW2FjRhRCuasB_gC-63" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;上传/维护模板文件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="157" y="1856" width="153" height="50" as="geometry" />
+          <mxGeometry x="155" y="1923" width="153" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
