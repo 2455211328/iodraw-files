@@ -87,14 +87,17 @@
         <mxCell id="error_right" value="提示错误信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="771" y="417" width="160" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="s57qxzroVSiLjBcqHAwR-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="get_code" target="code_ok">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="get_code" value="获取验证码" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="561" y="530" width="160" height="65" as="geometry" />
         </mxCell>
         <mxCell id="code_ok" value="判断是否正确" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="571" y="901" width="180" height="90" as="geometry" />
+          <mxGeometry x="551" y="632" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="success" value="登录成功" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="566" y="1031" width="160" height="65" as="geometry" />
+          <mxGeometry x="561" y="790" width="160" height="65" as="geometry" />
         </mxCell>
         <mxCell id="end" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="566" y="1136" width="160" height="60" as="geometry" />
