@@ -76,8 +76,8 @@
         </mxCell>
         <mxCell id="m2" value="2.提交登录信息" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="345" y="215" as="sourcePoint" />
-            <mxPoint x="565" y="215" as="targetPoint" />
+            <mxPoint x="440" y="215" as="sourcePoint" />
+            <mxPoint x="660" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m3" value="3.调用登录校验" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
@@ -112,8 +112,8 @@
         </mxCell>
         <mxCell id="m8" value="8.请求获取验证码" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="345" y="535" as="sourcePoint" />
-            <mxPoint x="565" y="535" as="targetPoint" />
+            <mxPoint x="440" y="535" as="sourcePoint" />
+            <mxPoint x="660" y="535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m9" value="9.校验手机号并生成验证码" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
@@ -142,8 +142,8 @@
         </mxCell>
         <mxCell id="m13" value="13.提交验证码校验请求" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="345" y="760" as="sourcePoint" />
-            <mxPoint x="565" y="760" as="targetPoint" />
+            <mxPoint x="440" y="760" as="sourcePoint" />
+            <mxPoint x="660" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m14" value="14.校验验证码，生成Token并加载权限" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
