@@ -93,6 +93,11 @@
         <mxCell id="get_code" value="获取验证码" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="561" y="530" width="160" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="s57qxzroVSiLjBcqHAwR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="get_code">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="738" y="682" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="code_ok" value="判断是否正确" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="551" y="632" width="180" height="90" as="geometry" />
         </mxCell>
@@ -106,7 +111,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e120" value="Y" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="code_ok" target="success" edge="1">
-          <mxGeometry x="-0.2128" y="18" relative="1" as="geometry">
+          <mxGeometry x="-0.0691" y="11" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
