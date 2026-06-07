@@ -78,7 +78,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="error_left" value="提示错误信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="400" y="325" width="115" height="59" as="geometry" />
+          <mxGeometry x="400" y="328" width="115" height="59" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s57qxzroVSiLjBcqHAwR-49" target="s57qxzroVSiLjBcqHAwR-8">
           <mxGeometry relative="1" as="geometry">
@@ -159,7 +159,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-49" value="提示错误信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="814" y="334" width="115" height="59" as="geometry" />
+          <mxGeometry x="786" y="328" width="115" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
