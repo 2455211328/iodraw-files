@@ -19,10 +19,10 @@
         <mxCell id="p_amap" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ApprovalMapper&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="900" y="70" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p_pmap" value="ProjectMapper" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="p_pmap" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ProjectMapper&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1155" y="70" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p_db" value="MySQL数据库" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="p_db" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MySQL数据库&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1385" y="70" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="life_user" value="" style="endArrow=none;html=1;dashed=1;strokeWidth=1;fontSize=12;" parent="1" edge="1">
