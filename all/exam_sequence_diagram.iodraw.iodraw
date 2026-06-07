@@ -14,13 +14,13 @@
           <mxGeometry x="308" y="90" width="160" height="48" as="geometry" />
         </mxCell>
         <mxCell id="p_exam" value="在线考试界面" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="446" y="88" width="160" height="48" as="geometry" />
+          <mxGeometry x="502" y="80" width="160" height="48" as="geometry" />
         </mxCell>
         <mxCell id="p_paper" value="试卷页面" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="570" y="90" width="160" height="48" as="geometry" />
+          <mxGeometry x="833" y="95" width="160" height="48" as="geometry" />
         </mxCell>
         <mxCell id="p_db" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="730" y="90" width="140" height="48" as="geometry" />
+          <mxGeometry x="998" y="95" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="life_student" value="" style="endArrow=none;html=1;dashed=1;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
