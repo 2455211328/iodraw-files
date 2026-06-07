@@ -120,7 +120,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-7" value="输入用户名与手机号" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="523" y="234" width="185" height="52" as="geometry" />
+          <mxGeometry x="338.5" y="332" width="185" height="52" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s57qxzroVSiLjBcqHAwR-8" target="exist">
           <mxGeometry relative="1" as="geometry" />
