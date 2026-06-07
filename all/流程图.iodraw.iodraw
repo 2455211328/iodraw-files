@@ -106,10 +106,10 @@
           <mxGeometry x="569" y="591" width="144" height="74" as="geometry" />
         </mxCell>
         <mxCell id="success" value="登录成功" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="561" y="716" width="95" height="37" as="geometry" />
+          <mxGeometry x="593.5" y="692" width="95" height="37" as="geometry" />
         </mxCell>
         <mxCell id="end" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="561" y="808" width="160" height="60" as="geometry" />
+          <mxGeometry x="563" y="763" width="92" height="44" as="geometry" />
         </mxCell>
         <mxCell id="e100" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="start" target="login" edge="1">
           <mxGeometry relative="1" as="geometry" />
