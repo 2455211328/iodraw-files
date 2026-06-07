@@ -102,19 +102,6 @@
         <mxCell id="e100" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="start" target="login" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e118" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="get_code" target="code_ok" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e119" value="N" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="code_ok" target="get_code" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="751" y="946" />
-              <mxPoint x="801" y="946" />
-              <mxPoint x="801" y="824" />
-              <mxPoint x="726" y="824" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="e120" value="Y" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="code_ok" target="success" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
