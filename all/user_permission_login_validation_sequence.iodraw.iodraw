@@ -142,8 +142,8 @@
         </mxCell>
         <mxCell id="m13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;13.提交验证码校验请求&lt;/font&gt;" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="760" as="sourcePoint" />
-            <mxPoint x="660" y="760" as="targetPoint" />
+            <mxPoint x="450" y="760" as="sourcePoint" />
+            <mxPoint x="670" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m14" value="14.校验验证码，生成Token并加载权限" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
