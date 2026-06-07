@@ -124,15 +124,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m9" value="9.提交分类维护请求" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.037" y="20" relative="1" as="geometry">
             <mxPoint x="300" y="540" as="sourcePoint" />
             <mxPoint x="570" y="540" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m10" value="10.校验并保存模板分类" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="620" as="sourcePoint" />
-            <mxPoint x="840" y="620" as="targetPoint" />
+          <mxGeometry x="0.037" y="20" relative="1" as="geometry">
+            <mxPoint x="570" y="600" as="sourcePoint" />
+            <mxPoint x="840" y="600" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m11" value="11.写入或更新分类数据" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
