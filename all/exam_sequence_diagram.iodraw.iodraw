@@ -135,7 +135,7 @@
             <mxPoint x="650" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h2hWuy3d1P3cKQEJ7H2S-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;登录&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="h2hWuy3d1P3cKQEJ7H2S-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;UserController&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="302" y="94" width="96" height="43" as="geometry" />
         </mxCell>
         <mxCell id="h2hWuy3d1P3cKQEJ7H2S-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;登录&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
