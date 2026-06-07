@@ -69,6 +69,9 @@
         <mxCell id="s57qxzroVSiLjBcqHAwR-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exist" target="error_right">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="s57qxzroVSiLjBcqHAwR-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exist" target="get_code">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="exist" value="判断是否正确" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="551" y="404.5" width="180" height="90" as="geometry" />
         </mxCell>
@@ -85,7 +88,7 @@
           <mxGeometry x="771" y="417" width="160" height="65" as="geometry" />
         </mxCell>
         <mxCell id="get_code" value="获取验证码" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="566" y="791" width="160" height="65" as="geometry" />
+          <mxGeometry x="561" y="530" width="160" height="65" as="geometry" />
         </mxCell>
         <mxCell id="code_ok" value="判断是否正确" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="571" y="901" width="180" height="90" as="geometry" />
