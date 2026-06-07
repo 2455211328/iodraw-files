@@ -58,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="user_account" value="是否有登录账&lt;br&gt;号" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="901" y="212" width="160" height="80" as="geometry" />
+          <mxGeometry x="901" y="218" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exist" target="error_left">
           <mxGeometry relative="1" as="geometry" />
@@ -105,6 +105,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e121" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="success" target="end" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s57qxzroVSiLjBcqHAwR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s57qxzroVSiLjBcqHAwR-7" target="exist">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-7" value="输入用户名与手机号" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
