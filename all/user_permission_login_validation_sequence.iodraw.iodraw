@@ -101,7 +101,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m6" value="6.返回用户基础数据" style="endArrow=block;html=1;rounded=0;dashed=1;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
+        <mxCell id="m6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;6.返回用户基础数据&lt;/font&gt;" style="endArrow=block;html=1;rounded=0;dashed=1;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1550" y="430" as="sourcePoint" />
             <mxPoint x="1340" y="430" as="targetPoint" />
@@ -127,7 +127,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m10" value="10.发送验证码" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
+        <mxCell id="m10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;10.发送验证码&lt;/font&gt;" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1120" y="635" as="sourcePoint" />
             <mxPoint x="1710" y="640" as="targetPoint" />
