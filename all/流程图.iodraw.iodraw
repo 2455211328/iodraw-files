@@ -46,9 +46,6 @@
         <mxCell id="user_account" value="是否有登录账&lt;br&gt;号" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="771" y="219" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="input_user" value="选择平台信息和公司信&lt;br&gt;息、用户名和手机号" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="671" y="501" width="250" height="65" as="geometry" />
-        </mxCell>
         <mxCell id="exist" value="判断是否存在" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="571" y="641" width="180" height="90" as="geometry" />
         </mxCell>
@@ -82,12 +79,13 @@
             <mxPoint x="516" y="566" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e112" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="input_user" target="exist" edge="1">
+        <mxCell id="e112" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" target="exist" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="796" y="596" />
               <mxPoint x="661" y="596" />
             </Array>
+            <mxPoint x="796" y="566" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e113" value="N" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="exist" target="error_left" edge="1">
@@ -106,13 +104,14 @@
             <mxPoint x="406" y="536" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e116" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="error_right" target="input_user" edge="1">
+        <mxCell id="e116" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="error_right" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="936" y="626" />
               <mxPoint x="936" y="536" />
               <mxPoint x="921" y="536" />
             </Array>
+            <mxPoint x="921" y="536" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e117" value="Y" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="exist" target="get_code" edge="1">
@@ -138,7 +137,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-7" value="输入用户名与手机号" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="321" y="326" width="185" height="52" as="geometry" />
+          <mxGeometry x="338.5" y="324" width="185" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="s57qxzroVSiLjBcqHAwR-8" value="选择平台信息和公司信&lt;br&gt;息、用户名和手机号" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="721" y="324" width="250" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
