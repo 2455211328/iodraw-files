@@ -138,9 +138,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m11" value="11.写入或更新分类数据" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="665" as="sourcePoint" />
-            <mxPoint x="1110" y="665" as="targetPoint" />
+          <mxGeometry x="-0.037" y="20" relative="1" as="geometry">
+            <mxPoint x="840" y="640" as="sourcePoint" />
+            <mxPoint x="1110" y="640" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m12" value="12.保存分类记录" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
