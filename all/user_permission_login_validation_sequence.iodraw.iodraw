@@ -67,7 +67,7 @@
             <mxPoint x="1304.41" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m1" value="1.选择登录类型并输入账号信息" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
+        <mxCell id="m1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1.选择登录类型并输入账号信息&lt;/font&gt;" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="170" as="sourcePoint" />
             <mxPoint x="270" y="170" as="targetPoint" />
@@ -129,7 +129,7 @@
         </mxCell>
         <mxCell id="m11" value="11.返回发送结果" style="endArrow=block;html=1;rounded=0;dashed=1;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1280" y="670" as="sourcePoint" />
+            <mxPoint x="1300" y="670" as="sourcePoint" />
             <mxPoint x="710" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
