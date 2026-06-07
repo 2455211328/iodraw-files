@@ -103,15 +103,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m6" value="6.返回分类数据" style="endArrow=block;html=1;rounded=0;dashed=1;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0196" y="-20" relative="1" as="geometry">
             <mxPoint x="1620" y="400" as="sourcePoint" />
             <mxPoint x="1110" y="400" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m7" value="7.返回查询结果" style="endArrow=block;html=1;rounded=0;dashed=1;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.037" y="-25" relative="1" as="geometry">
             <mxPoint x="1110" y="445" as="sourcePoint" />
             <mxPoint x="840" y="445" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m8" value="8.展示模板分类列表" style="endArrow=block;html=1;rounded=0;dashed=1;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
