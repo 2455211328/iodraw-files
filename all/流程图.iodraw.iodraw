@@ -81,9 +81,6 @@
         <mxCell id="e100" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="start" target="login" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e117" value="Y" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="exist" target="get_code" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="e118" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="get_code" target="code_ok" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
