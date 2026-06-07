@@ -23,7 +23,7 @@
           <mxGeometry x="771" y="116" width="160" height="65" as="geometry" />
         </mxCell>
         <mxCell id="super_register" value="联系超级管理员&lt;br&gt;注册账号" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="164" y="244" width="160" height="65" as="geometry" />
+          <mxGeometry x="143" y="169" width="160" height="65" as="geometry" />
         </mxCell>
         <mxCell id="admin_register" value="联系平台管理员&lt;br&gt;注册账号" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="906" y="246" width="160" height="65" as="geometry" />
@@ -62,36 +62,6 @@
           <mxGeometry x="566" y="1136" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e100" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="start" target="login" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e104" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="admin_register" target="user_login" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e106" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="user_login" target="user_account" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e107" value="N" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="plat_account" target="super_register" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="361" y="396" />
-              <mxPoint x="311" y="396" />
-              <mxPoint x="311" y="311" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e108" value="N" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="user_account" target="admin_register" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="861" y="396" />
-              <mxPoint x="986" y="396" />
-              <mxPoint x="986" y="311" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e109" value="Y" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="plat_account" target="input_plat" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e110" value="Y" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="user_account" target="input_user" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e111" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="input_plat" target="exist" edge="1">
