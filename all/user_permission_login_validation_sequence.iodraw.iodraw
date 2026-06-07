@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="60" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p_front" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;前端页面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="360" y="60" width="150" height="50" as="geometry" />
+          <mxGeometry x="370" y="70" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p_ctl" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;UserController&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1050" y="80" width="150" height="50" as="geometry" />
@@ -33,8 +33,8 @@
         </mxCell>
         <mxCell id="life_front" value="" style="endArrow=none;html=1;dashed=1;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="120" as="sourcePoint" />
-            <mxPoint x="440" y="870" as="targetPoint" />
+            <mxPoint x="444.41" y="130" as="sourcePoint" />
+            <mxPoint x="444.41" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="life_ctl" value="" style="endArrow=none;html=1;dashed=1;strokeWidth=1;" parent="1" edge="1">
