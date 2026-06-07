@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="user_login" value="普通用户登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="998.5" y="115" width="160" height="65" as="geometry" />
+          <mxGeometry x="940.75" y="115" width="160" height="65" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="super_register" target="plat_login">
           <mxGeometry relative="1" as="geometry" />
@@ -58,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="user_account" value="是否有登录账&lt;br&gt;号" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="998.5" y="218" width="160" height="80" as="geometry" />
+          <mxGeometry x="993" y="218" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exist" target="error_left">
           <mxGeometry relative="1" as="geometry" />
