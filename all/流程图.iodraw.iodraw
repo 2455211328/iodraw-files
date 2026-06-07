@@ -32,7 +32,7 @@
           <mxGeometry x="366" y="318" width="160" height="65" as="geometry" />
         </mxCell>
         <mxCell id="admin_register" value="联系平台管理员&lt;br&gt;注册账号" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="973" y="169" width="160" height="65" as="geometry" />
+          <mxGeometry x="867" y="206.5" width="160" height="65" as="geometry" />
         </mxCell>
         <mxCell id="plat_account" value="是否有平台账&lt;br&gt;号" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="561" y="303" width="160" height="80" as="geometry" />
