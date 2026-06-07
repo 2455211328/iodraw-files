@@ -17,7 +17,7 @@
           <mxGeometry x="561" y="116" width="160" height="65" as="geometry" />
         </mxCell>
         <mxCell id="plat_login" value="平台管理员登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="466" y="218" width="127" height="53" as="geometry" />
+          <mxGeometry x="466" y="218" width="130" height="43" as="geometry" />
         </mxCell>
         <mxCell id="user_login" value="普通用户登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="696" y="206" width="120" height="45" as="geometry" />
