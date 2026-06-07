@@ -61,10 +61,10 @@
           <mxGeometry x="549" y="399" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="error_left" value="提示错误信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="281" y="661" width="160" height="65" as="geometry" />
+          <mxGeometry x="351" y="456" width="160" height="65" as="geometry" />
         </mxCell>
         <mxCell id="error_right" value="提示错误信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="856" y="661" width="160" height="65" as="geometry" />
+          <mxGeometry x="771" y="417" width="160" height="65" as="geometry" />
         </mxCell>
         <mxCell id="get_code" value="获取验证码" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="566" y="791" width="160" height="65" as="geometry" />
