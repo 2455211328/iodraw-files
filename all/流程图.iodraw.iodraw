@@ -152,8 +152,11 @@
         <mxCell id="s57qxzroVSiLjBcqHAwR-40" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;N&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="746" y="586" width="41" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="s57qxzroVSiLjBcqHAwR-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s57qxzroVSiLjBcqHAwR-41" target="login">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-41" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="569" y="15" width="92" height="44" as="geometry" />
+          <mxGeometry x="595" y="36" width="92" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
