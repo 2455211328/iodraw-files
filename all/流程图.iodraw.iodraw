@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="admin_register" value="联系平台管理员&lt;br&gt;注册账号" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="973" y="169" width="160" height="65" as="geometry" />
+          <mxGeometry x="978" y="116" width="160" height="65" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="plat_account" target="super_register">
           <mxGeometry relative="1" as="geometry" />
@@ -116,14 +116,8 @@
         <mxCell id="e121" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="success" target="end" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s57qxzroVSiLjBcqHAwR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s57qxzroVSiLjBcqHAwR-7" target="exist">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-7" value="输入用户名与手机号" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="338.5" y="332" width="185" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="s57qxzroVSiLjBcqHAwR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s57qxzroVSiLjBcqHAwR-8" target="exist">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-8" value="选择平台信息和公司信&lt;br&gt;息、用户名和手机号" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="749.5" y="332" width="203" height="52" as="geometry" />
