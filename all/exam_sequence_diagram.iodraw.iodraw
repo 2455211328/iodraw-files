@@ -78,7 +78,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e101" value="调用" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
+        <mxCell id="e101" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="280" as="sourcePoint" />
             <mxPoint x="350" y="280" as="targetPoint" />
