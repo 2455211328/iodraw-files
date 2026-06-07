@@ -22,9 +22,6 @@
         <mxCell id="plat_login" value="平台管理员登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="351" y="116" width="160" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="s57qxzroVSiLjBcqHAwR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="user_login" target="user_account">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="user_login" value="普通用户登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="771" y="116" width="160" height="65" as="geometry" />
         </mxCell>
@@ -43,19 +40,10 @@
         <mxCell id="plat_account" value="是否有平台账&lt;br&gt;号" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="351" y="219" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s57qxzroVSiLjBcqHAwR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="user_account" target="admin_register">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s57qxzroVSiLjBcqHAwR-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="user_account" target="s57qxzroVSiLjBcqHAwR-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s57qxzroVSiLjBcqHAwR-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Y&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s57qxzroVSiLjBcqHAwR-12">
-          <mxGeometry x="-0.5745" y="-3" relative="1" as="geometry">
-            <mxPoint x="-7" y="2" as="offset" />
+        <mxCell id="s57qxzroVSiLjBcqHAwR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="admin_register">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="931" y="259" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="user_account" value="是否有登录账&lt;br&gt;号" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="771" y="219" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exist" target="error_left">
           <mxGeometry relative="1" as="geometry" />
