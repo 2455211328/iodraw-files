@@ -64,13 +64,7 @@
         <mxCell id="e100" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="start" target="login" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e103" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="super_register" target="plat_login" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="e104" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="admin_register" target="user_login" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e105" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="plat_login" target="plat_account" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e106" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="user_login" target="user_account" edge="1">
