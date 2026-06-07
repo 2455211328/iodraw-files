@@ -124,7 +124,7 @@
         <mxCell id="m10" value="10.发送验证码" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="625" as="sourcePoint" />
-            <mxPoint x="1280" y="630" as="targetPoint" />
+            <mxPoint x="1300" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m11" value="11.返回发送结果" style="endArrow=block;html=1;rounded=0;dashed=1;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
