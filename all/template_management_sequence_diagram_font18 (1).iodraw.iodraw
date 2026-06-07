@@ -68,9 +68,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m1" value="1.进入项目模板管理页面" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry y="15" relative="1" as="geometry">
             <mxPoint x="80" y="175" as="sourcePoint" />
             <mxPoint x="300" y="175" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m2" value="2.请求模板分类列表" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
