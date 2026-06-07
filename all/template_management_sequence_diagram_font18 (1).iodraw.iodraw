@@ -96,9 +96,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m5" value="5.读取模板分类表" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1110" y="355" as="sourcePoint" />
-            <mxPoint x="1620" y="355" as="targetPoint" />
+          <mxGeometry x="0.0196" y="20" relative="1" as="geometry">
+            <mxPoint x="1110" y="320" as="sourcePoint" />
+            <mxPoint x="1620" y="320" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m6" value="6.返回分类数据" style="endArrow=block;html=1;rounded=0;dashed=1;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
