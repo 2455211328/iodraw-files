@@ -107,11 +107,14 @@
         <mxCell id="e121" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="success" target="end" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s57qxzroVSiLjBcqHAwR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s57qxzroVSiLjBcqHAwR-7" target="exist">
+        <mxCell id="s57qxzroVSiLjBcqHAwR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s57qxzroVSiLjBcqHAwR-7" target="exist">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-7" value="输入用户名与手机号" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="454" y="232" width="147" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="s57qxzroVSiLjBcqHAwR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s57qxzroVSiLjBcqHAwR-8" target="exist">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-8" value="选择平台信息和公司信&lt;br&gt;息、用户名和手机号" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="689" y="232" width="179.5" height="52" as="geometry" />
@@ -145,6 +148,9 @@
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-41" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="595" y="36" width="92" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="s57qxzroVSiLjBcqHAwR-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Y&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="893.5294117647068" y="267.0588235294117" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
