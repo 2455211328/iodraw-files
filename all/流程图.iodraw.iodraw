@@ -16,8 +16,14 @@
         <mxCell id="login" value="登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="561" y="116" width="160" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="s57qxzroVSiLjBcqHAwR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="plat_login" target="plat_account">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="plat_login" value="平台管理员登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="351" y="116" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="s57qxzroVSiLjBcqHAwR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="user_login" target="user_account">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="user_login" value="普通用户登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="771" y="116" width="160" height="65" as="geometry" />
