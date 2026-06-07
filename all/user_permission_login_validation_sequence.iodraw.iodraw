@@ -39,8 +39,8 @@
         </mxCell>
         <mxCell id="life_ctl" value="" style="endArrow=none;html=1;dashed=1;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="110" as="sourcePoint" />
-            <mxPoint x="680" y="860" as="targetPoint" />
+            <mxPoint x="680" y="120" as="sourcePoint" />
+            <mxPoint x="680" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="life_svc" value="" style="endArrow=none;html=1;dashed=1;strokeWidth=1;" parent="1" edge="1">
@@ -82,8 +82,8 @@
         </mxCell>
         <mxCell id="m3" value="3.调用登录校验" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1125" y="270" as="sourcePoint" />
-            <mxPoint x="1345" y="270" as="targetPoint" />
+            <mxPoint x="680" y="260" as="sourcePoint" />
+            <mxPoint x="900" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m4" value="4.按登录类型查询用户" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
