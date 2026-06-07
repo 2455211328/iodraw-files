@@ -10,13 +10,13 @@
         <mxCell id="p_front" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;前端审批页面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="205" y="70" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p_ctl" value="ApprovalController" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="p_ctl" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ApprovalController&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="430" y="70" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p_svc" value="ApprovalService" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="p_svc" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ApprovalService&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="660" y="70" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p_amap" value="ApprovalMapper" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="p_amap" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ApprovalMapper&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="900" y="70" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p_pmap" value="ProjectMapper" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
