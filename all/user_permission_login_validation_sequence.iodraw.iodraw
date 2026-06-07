@@ -23,7 +23,7 @@
           <mxGeometry x="1370" y="70" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p_sms" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;验证码服务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1610" y="70" width="130" height="50" as="geometry" />
+          <mxGeometry x="1570" y="70" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="life_user" value="" style="endArrow=none;html=1;dashed=1;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -138,8 +138,8 @@
         </mxCell>
         <mxCell id="m11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;11.返回发送结果&lt;/font&gt;" style="endArrow=block;html=1;rounded=0;dashed=1;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1710" y="680" as="sourcePoint" />
-            <mxPoint x="1120" y="680" as="targetPoint" />
+            <mxPoint x="1640" y="640" as="sourcePoint" />
+            <mxPoint x="1120" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;12.验证码发送成功&lt;/font&gt;" style="endArrow=block;html=1;rounded=0;dashed=1;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
