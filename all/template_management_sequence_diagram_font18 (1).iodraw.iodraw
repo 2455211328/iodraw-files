@@ -76,22 +76,22 @@
         </mxCell>
         <mxCell id="m2" value="2.请求模板分类列表" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
           <mxGeometry x="0.037" y="20" relative="1" as="geometry">
-            <mxPoint x="300" y="220" as="sourcePoint" />
-            <mxPoint x="570" y="220" as="targetPoint" />
+            <mxPoint x="300" y="200" as="sourcePoint" />
+            <mxPoint x="570" y="200" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m3" value="3.调用分类查询方法" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
           <mxGeometry x="-0.037" y="15" relative="1" as="geometry">
-            <mxPoint x="570" y="265" as="sourcePoint" />
-            <mxPoint x="840" y="265" as="targetPoint" />
+            <mxPoint x="570" y="240" as="sourcePoint" />
+            <mxPoint x="840" y="240" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m4" value="4.查询模板分类数据" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
           <mxGeometry x="-0.037" y="20" relative="1" as="geometry">
-            <mxPoint x="840" y="310" as="sourcePoint" />
-            <mxPoint x="1110" y="310" as="targetPoint" />
+            <mxPoint x="840" y="280" as="sourcePoint" />
+            <mxPoint x="1110" y="280" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
