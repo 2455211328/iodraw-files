@@ -159,7 +159,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m14" value="14.提交模板文件和文件信息" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
-          <mxGeometry x="-0.037" y="10" relative="1" as="geometry">
+          <mxGeometry x="-0.037" y="20" relative="1" as="geometry">
             <mxPoint x="300" y="790" as="sourcePoint" />
             <mxPoint x="570" y="790" as="targetPoint" />
             <mxPoint as="offset" />
@@ -167,8 +167,9 @@
         </mxCell>
         <mxCell id="m15" value="15.校验模板和文件信息" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="875" as="sourcePoint" />
-            <mxPoint x="840" y="875" as="targetPoint" />
+            <mxPoint x="570" y="840" as="sourcePoint" />
+            <mxPoint x="840" y="840" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m16" value="16.保存文件并写入模板文件记录" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
