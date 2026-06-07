@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram id="88c3a6f89b464ca08ff814c3443a77a1" name="用户登录流程图">
-    <mxGraphModel dx="1944" dy="855" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1850" pageHeight="1250" math="0" shadow="0">
+    <mxGraphModel dx="1652" dy="727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1850" pageHeight="1250" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,7 +159,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-49" value="提示错误信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="786" y="328" width="115" height="59" as="geometry" />
+          <mxGeometry x="771" y="328" width="115" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
