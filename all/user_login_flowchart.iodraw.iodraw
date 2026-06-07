@@ -58,22 +58,6 @@
         <mxCell id="e100" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="start" target="login" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e101" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="login" target="plat_login" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="410" y="220" />
-              <mxPoint x="285" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e102" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="login" target="user_login" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="410" y="220" />
-              <mxPoint x="550" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="e103" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="super_register" target="plat_login" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
