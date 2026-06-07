@@ -33,8 +33,8 @@
         </mxCell>
         <mxCell id="life_front" value="" style="endArrow=none;html=1;dashed=1;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="130" as="sourcePoint" />
-            <mxPoint x="270" y="880" as="targetPoint" />
+            <mxPoint x="240" y="130" as="sourcePoint" />
+            <mxPoint x="240" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="life_ctl" value="" style="endArrow=none;html=1;dashed=1;strokeWidth=1;" parent="1" edge="1">
