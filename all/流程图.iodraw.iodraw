@@ -97,16 +97,18 @@
           <mxGeometry x="551" y="632" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="success" value="登录成功" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="561" y="790" width="160" height="65" as="geometry" />
+          <mxGeometry x="559" y="765" width="160" height="65" as="geometry" />
         </mxCell>
         <mxCell id="end" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="566" y="1136" width="160" height="60" as="geometry" />
+          <mxGeometry x="561" y="886" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e100" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="start" target="login" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e120" value="Y" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="code_ok" target="success" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.2128" y="18" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="e121" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="success" target="end" edge="1">
           <mxGeometry relative="1" as="geometry" />
