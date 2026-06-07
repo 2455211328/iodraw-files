@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="user_account" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;是否注册&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="876" y="216" width="138" height="78" as="geometry" />
+          <mxGeometry x="876" y="219" width="138" height="78" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exist" target="error_left">
           <mxGeometry relative="1" as="geometry" />
