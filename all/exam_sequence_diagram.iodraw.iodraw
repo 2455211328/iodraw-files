@@ -17,10 +17,7 @@
           <mxGeometry x="499" y="77" width="160" height="48" as="geometry" />
         </mxCell>
         <mxCell id="p_paper" value="试卷页面" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="833" y="95" width="160" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="p_db" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="998" y="95" width="140" height="48" as="geometry" />
+          <mxGeometry x="625" y="74" width="160" height="48" as="geometry" />
         </mxCell>
         <mxCell id="life_student" value="" style="endArrow=none;html=1;dashed=1;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
