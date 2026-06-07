@@ -173,9 +173,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;16.更新项目审批状态&lt;/font&gt;" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=12;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="735" y="760" as="sourcePoint" />
-            <mxPoint x="1225" y="760" as="targetPoint" />
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint x="735" y="770" as="sourcePoint" />
+            <mxPoint x="1225" y="770" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
