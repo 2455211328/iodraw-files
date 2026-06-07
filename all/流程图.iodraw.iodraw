@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="login" value="登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="561" y="116" width="160" height="65" as="geometry" />
+          <mxGeometry x="561" y="115" width="160" height="65" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="plat_login" target="plat_account">
           <mxGeometry relative="1" as="geometry" />
@@ -159,7 +159,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-49" value="提示错误信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="771" y="328" width="115" height="59" as="geometry" />
+          <mxGeometry x="786" y="328" width="115" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
