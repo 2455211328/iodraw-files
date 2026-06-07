@@ -109,7 +109,7 @@
           <mxGeometry x="593.5" y="692" width="95" height="37" as="geometry" />
         </mxCell>
         <mxCell id="end" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="563" y="763" width="92" height="44" as="geometry" />
+          <mxGeometry x="595" y="762" width="92" height="44" as="geometry" />
         </mxCell>
         <mxCell id="e100" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="start" target="login" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -157,6 +157,9 @@
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-40" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;N&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="746" y="586" width="41" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="s57qxzroVSiLjBcqHAwR-41" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="857" y="24" width="92" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
