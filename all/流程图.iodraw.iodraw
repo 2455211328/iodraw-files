@@ -134,12 +134,12 @@
           <mxGeometry x="1205.5" y="261" width="41" height="44" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;N&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="787" y="439" as="geometry">
+          <mxGeometry x="814" y="317.75" as="geometry">
             <mxPoint x="-256" y="25" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;N&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1002" y="437" as="geometry">
+          <mxGeometry x="993" y="317.75" as="geometry">
             <mxPoint x="-256" y="25" as="offset" />
           </mxGeometry>
         </mxCell>
