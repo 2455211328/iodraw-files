@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="60" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p_front" value="前端登录页面" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="195" y="70" width="150" height="50" as="geometry" />
+          <mxGeometry x="170" y="70" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p_ctl" value="UserController" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="415" y="70" width="150" height="50" as="geometry" />
