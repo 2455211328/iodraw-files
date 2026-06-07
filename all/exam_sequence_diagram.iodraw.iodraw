@@ -61,7 +61,7 @@
         <mxCell id="act_db" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="793" y="635" width="14" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="e100" value="启动" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
+        <mxCell id="e100" value="输入账户信息" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="85" y="190" as="sourcePoint" />
             <mxPoint x="210" y="190" as="targetPoint" />
@@ -145,7 +145,7 @@
           <mxGeometry x="740.5" y="94" width="119" height="43" as="geometry" />
         </mxCell>
         <mxCell id="h2hWuy3d1P3cKQEJ7H2S-12" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="435" y="287" width="30" height="60" as="geometry" />
+          <mxGeometry x="70" y="85.5" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
