@@ -38,19 +38,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="exist" value="判断是否存在" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="551" y="404.5" width="180" height="90" as="geometry" />
+          <mxGeometry x="560.5" y="588.5" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="error_left" target="s57qxzroVSiLjBcqHAwR-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="error_left" value="提示错误信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="351" y="417" width="160" height="65" as="geometry" />
+          <mxGeometry x="360.5" y="601" width="160" height="65" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="error_right" target="s57qxzroVSiLjBcqHAwR-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="error_right" value="提示错误信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="771" y="417" width="160" height="65" as="geometry" />
+          <mxGeometry x="780.5" y="601" width="160" height="65" as="geometry" />
         </mxCell>
         <mxCell id="get_code" value="获取验证码" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="566" y="791" width="160" height="65" as="geometry" />
@@ -90,21 +90,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-7" value="输入用户名与手机号" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="338.5" y="332" width="185" height="52" as="geometry" />
+          <mxGeometry x="348" y="516" width="185" height="52" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s57qxzroVSiLjBcqHAwR-8" target="exist">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-8" value="选择平台信息和公司信&lt;br&gt;息、用户名和手机号" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="749.5" y="332" width="203" height="52" as="geometry" />
+          <mxGeometry x="759" y="516" width="203" height="52" as="geometry" />
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;N&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="787" y="439" as="geometry">
+          <mxGeometry x="796.5" y="623" as="geometry">
             <mxPoint x="-256" y="25" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s57qxzroVSiLjBcqHAwR-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;N&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1002" y="436" as="geometry">
+          <mxGeometry x="1011.5" y="620" as="geometry">
             <mxPoint x="-256" y="25" as="offset" />
           </mxGeometry>
         </mxCell>
