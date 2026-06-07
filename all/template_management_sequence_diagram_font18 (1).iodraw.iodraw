@@ -125,8 +125,8 @@
         </mxCell>
         <mxCell id="m9" value="9.提交分类维护请求" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="575" as="sourcePoint" />
-            <mxPoint x="570" y="575" as="targetPoint" />
+            <mxPoint x="300" y="540" as="sourcePoint" />
+            <mxPoint x="570" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m10" value="10.校验并保存模板分类" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
