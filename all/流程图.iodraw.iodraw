@@ -47,7 +47,7 @@
           <mxGeometry x="771" y="219" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="exist" value="判断是否存在" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="571" y="641" width="180" height="90" as="geometry" />
+          <mxGeometry x="554" y="436" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="error_left" value="提示错误信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="281" y="661" width="160" height="65" as="geometry" />
@@ -69,31 +69,6 @@
         </mxCell>
         <mxCell id="e100" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="start" target="login" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e111" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" target="exist" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="516" y="596" />
-              <mxPoint x="661" y="596" />
-            </Array>
-            <mxPoint x="516" y="566" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e113" value="N" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="exist" target="error_left" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e114" value="N" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="exist" target="error_right" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e115" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="error_left" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="376" y="626" />
-              <mxPoint x="376" y="536" />
-              <mxPoint x="406" y="536" />
-            </Array>
-            <mxPoint x="406" y="536" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="e116" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fontSize=14;" parent="1" source="error_right" edge="1">
           <mxGeometry relative="1" as="geometry">
