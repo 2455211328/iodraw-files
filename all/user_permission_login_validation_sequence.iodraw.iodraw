@@ -23,7 +23,7 @@
           <mxGeometry x="1075" y="70" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p_sms" value="验证码服务" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1275" y="70" width="130" height="50" as="geometry" />
+          <mxGeometry x="1240" y="70" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="life_user" value="" style="endArrow=none;html=1;dashed=1;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -63,8 +63,8 @@
         </mxCell>
         <mxCell id="life_sms" value="" style="endArrow=none;html=1;dashed=1;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1340" y="130" as="sourcePoint" />
-            <mxPoint x="1340" y="880" as="targetPoint" />
+            <mxPoint x="1304.41" y="130" as="sourcePoint" />
+            <mxPoint x="1304.41" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m1" value="1.选择登录类型并输入账号信息" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=13;" parent="1" edge="1">
