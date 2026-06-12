@@ -22,8 +22,8 @@
         <mxCell id="p5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ProjectMapper&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1149" y="40" width="171" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="p6" value="MySQL数据库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="40" width="160" height="55" as="geometry" />
+        <mxCell id="p6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;MySQL数据库&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1374" y="40" width="166" height="55" as="geometry" />
         </mxCell>
         <mxCell id="l0" value="" style="endArrow=none;html=1;dashed=1;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -67,7 +67,7 @@
             <mxPoint x="1460" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m1" value="1.选择项目并提交审批" style="endArrow=block;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
+        <mxCell id="m1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;1.选择项目并提交审批&lt;/font&gt;" style="endArrow=block;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="130" as="sourcePoint" />
             <mxPoint x="245" y="130" as="targetPoint" />
