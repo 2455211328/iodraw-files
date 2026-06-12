@@ -158,14 +158,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m14" value="14.提交模板文件和文件信息" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
+        <mxCell id="m14" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;14.提交模板文件和文件信息&lt;/font&gt;" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
           <mxGeometry x="-0.037" y="20" relative="1" as="geometry">
             <mxPoint x="300" y="790" as="sourcePoint" />
             <mxPoint x="570" y="790" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m15" value="15.校验模板和文件信息" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
+        <mxCell id="m15" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;15.校验模板和文件信息&lt;/font&gt;" style="endArrow=block;html=1;rounded=0;strokeWidth=1.5;fontSize=18;" parent="1" edge="1">
           <mxGeometry x="-0.037" y="20" relative="1" as="geometry">
             <mxPoint x="570" y="830" as="sourcePoint" />
             <mxPoint x="840" y="830" as="targetPoint" />
