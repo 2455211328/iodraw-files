@@ -16,26 +16,11 @@
         <mxCell id="-tygpLncmEEJym6LiCeQ-19" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;系统权限管理模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="155.5" y="-1229" width="199" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="-tygpLncmEEJym6LiCeQ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-tygpLncmEEJym6LiCeQ-20" target="-tygpLncmEEJym6LiCeQ-66" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-tygpLncmEEJym6LiCeQ-20" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;项目资料管理模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="759.5" y="-1229" width="209" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-tygpLncmEEJym6LiCeQ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-tygpLncmEEJym6LiCeQ-21" target="-tygpLncmEEJym6LiCeQ-71" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-tygpLncmEEJym6LiCeQ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-tygpLncmEEJym6LiCeQ-21" target="-tygpLncmEEJym6LiCeQ-72" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-tygpLncmEEJym6LiCeQ-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;电子签章管理模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1398" y="-1229" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-tygpLncmEEJym6LiCeQ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-tygpLncmEEJym6LiCeQ-22" target="-tygpLncmEEJym6LiCeQ-69" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-tygpLncmEEJym6LiCeQ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-tygpLncmEEJym6LiCeQ-22" target="-tygpLncmEEJym6LiCeQ-70" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-tygpLncmEEJym6LiCeQ-22" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;项目审批管理模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1091" y="-1229" width="208" height="58.5" as="geometry" />
@@ -67,23 +52,8 @@
         <mxCell id="-tygpLncmEEJym6LiCeQ-65" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;项&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;目&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;信&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;息&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;管&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;理&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="753" y="-1113" width="71" height="199" as="geometry" />
         </mxCell>
-        <mxCell id="i3etY4S08DB5Jj5jPhMk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-tygpLncmEEJym6LiCeQ-66" target="i3etY4S08DB5Jj5jPhMk-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="i3etY4S08DB5Jj5jPhMk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-tygpLncmEEJym6LiCeQ-66" target="i3etY4S08DB5Jj5jPhMk-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-tygpLncmEEJym6LiCeQ-66" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;项&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;目&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;资&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;料&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;管&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;理&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="866" y="-1113" width="70" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="i3etY4S08DB5Jj5jPhMk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-tygpLncmEEJym6LiCeQ-69" target="i3etY4S08DB5Jj5jPhMk-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="i3etY4S08DB5Jj5jPhMk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-tygpLncmEEJym6LiCeQ-69" target="i3etY4S08DB5Jj5jPhMk-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="i3etY4S08DB5Jj5jPhMk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-tygpLncmEEJym6LiCeQ-69" target="i3etY4S08DB5Jj5jPhMk-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-tygpLncmEEJym6LiCeQ-69" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;项&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;目&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;审&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;批&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;管&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;理&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="1103" y="-1113" width="64" height="196" as="geometry" />
@@ -114,9 +84,6 @@
         </mxCell>
         <mxCell id="i3etY4S08DB5Jj5jPhMk-20" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;印&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;章&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;资&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;源&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;管&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;理&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="1327" y="-1113" width="69" height="197" as="geometry" />
-        </mxCell>
-        <mxCell id="i3etY4S08DB5Jj5jPhMk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.019;entryY=0.604;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-tygpLncmEEJym6LiCeQ-21" target="i3etY4S08DB5Jj5jPhMk-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QXQ2Ht0j_pqgvwAvcL2o-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="-tygpLncmEEJym6LiCeQ-19" target="-tygpLncmEEJym6LiCeQ-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
