@@ -1,60 +1,174 @@
-<mxfile host="app.diagrams.net" modified="2026-06-12T00:00:00.000Z" agent="ChatGPT" version="24.7.8" type="device">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram id="project-approval-sequence" name="项目审批时序图">
-    <mxGraphModel dx="1800" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="3544" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
-        <mxCell id="0"/>
-        <mxCell id="1" parent="0"/>
-
-        <mxCell id="actor" value="提交用户/审批用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="30" y="30" width="50" height="80" as="geometry"/>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="actor" value="提交用户/审批用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="30" y="30" width="50" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p1" value="前端审批页面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="40" width="150" height="55" as="geometry"/>
+        <mxCell id="p1" value="前端审批页面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="170" y="40" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="p2" value="ApprovalController" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="400" y="40" width="170" height="55" as="geometry"/>
+        <mxCell id="p2" value="ApprovalController" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="400" y="40" width="170" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="p3" value="ApprovalService" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="650" y="40" width="165" height="55" as="geometry"/>
+        <mxCell id="p3" value="ApprovalService" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="650" y="40" width="165" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="p4" value="ApprovalMapper" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="900" y="40" width="165" height="55" as="geometry"/>
+        <mxCell id="p4" value="ApprovalMapper" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="900" y="40" width="165" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="p5" value="ProjectMapper" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="40" width="160" height="55" as="geometry"/>
+        <mxCell id="p5" value="ProjectMapper" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="40" width="160" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="p6" value="MySQL数据库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="40" width="160" height="55" as="geometry"/>
+        <mxCell id="p6" value="MySQL数据库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1380" y="40" width="160" height="55" as="geometry" />
         </mxCell>
-
-        <mxCell id="l0" value="" style="endArrow=none;html=1;dashed=1;strokeColor=#666666;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="55" y="115" as="sourcePoint"/><mxPoint x="55" y="830" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="l1" value="" style="endArrow=none;html=1;dashed=1;strokeColor=#666666;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="245" y="100" as="sourcePoint"/><mxPoint x="245" y="830" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="l2" value="" style="endArrow=none;html=1;dashed=1;strokeColor=#666666;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="485" y="100" as="sourcePoint"/><mxPoint x="485" y="830" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="l3" value="" style="endArrow=none;html=1;dashed=1;strokeColor=#666666;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="732" y="100" as="sourcePoint"/><mxPoint x="732" y="830" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="l4" value="" style="endArrow=none;html=1;dashed=1;strokeColor=#666666;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="982" y="100" as="sourcePoint"/><mxPoint x="982" y="830" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="l5" value="" style="endArrow=none;html=1;dashed=1;strokeColor=#666666;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="1230" y="100" as="sourcePoint"/><mxPoint x="1230" y="830" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="l6" value="" style="endArrow=none;html=1;dashed=1;strokeColor=#666666;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="1460" y="100" as="sourcePoint"/><mxPoint x="1460" y="830" as="targetPoint"/></mxGeometry></mxCell>
-
-        <!-- submit approval -->
-        <mxCell id="m1" value="1.选择项目并提交审批" style="endArrow=block;html=1;rounded=0;fontSize=14;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="55" y="130" as="sourcePoint"/><mxPoint x="245" y="130" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="m2" value="2.发送提交审批请求" style="endArrow=block;html=1;rounded=0;fontSize=14;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="245" y="165" as="sourcePoint"/><mxPoint x="485" y="165" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="m3" value="3.调用提交审批方法" style="endArrow=block;html=1;rounded=0;fontSize=14;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="485" y="200" as="sourcePoint"/><mxPoint x="732" y="200" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="m4" value="4.更新项目状态为待审批" style="endArrow=block;html=1;rounded=0;fontSize=14;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="732" y="240" as="sourcePoint"/><mxPoint x="1230" y="240" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="m5" value="5.写入项目状态" style="endArrow=block;html=1;rounded=0;fontSize=14;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="1230" y="280" as="sourcePoint"/><mxPoint x="1460" y="280" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="m6" value="6.返回更新结果" style="endArrow=block;html=1;rounded=0;dashed=1;fontSize=14;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="1460" y="315" as="sourcePoint"/><mxPoint x="1230" y="315" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="m7" value="7.生成审批记录" style="endArrow=block;html=1;rounded=0;fontSize=14;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="732" y="360" as="sourcePoint"/><mxPoint x="982" y="360" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="m8" value="8.保存审批记录" style="endArrow=block;html=1;rounded=0;fontSize=14;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="982" y="400" as="sourcePoint"/><mxPoint x="1460" y="400" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="m9" value="9.返回保存结果" style="endArrow=block;html=1;rounded=0;dashed=1;fontSize=14;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="1460" y="435" as="sourcePoint"/><mxPoint x="982" y="435" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="m10" value="10.返回提交结果" style="endArrow=block;html=1;rounded=0;dashed=1;fontSize=14;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="732" y="485" as="sourcePoint"/><mxPoint x="485" y="485" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="m11" value="11.刷新项目审批状态" style="endArrow=block;html=1;rounded=0;dashed=1;fontSize=14;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="485" y="525" as="sourcePoint"/><mxPoint x="245" y="525" as="targetPoint"/></mxGeometry></mxCell>
-
-        <!-- approve/reject -->
-        <mxCell id="m12" value="12.查看待审批项目并提交审批结果" style="endArrow=block;html=1;rounded=0;fontSize=14;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="55" y="575" as="sourcePoint"/><mxPoint x="245" y="575" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="m13" value="13.发送审批通过/驳回请求" style="endArrow=block;html=1;rounded=0;fontSize=14;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="245" y="620" as="sourcePoint"/><mxPoint x="485" y="620" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="m14" value="14.调用审批处理方法" style="endArrow=block;html=1;rounded=0;fontSize=14;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="485" y="665" as="sourcePoint"/><mxPoint x="732" y="665" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="m15" value="15.保存审批意见和审批结果" style="endArrow=block;html=1;rounded=0;fontSize=14;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="732" y="710" as="sourcePoint"/><mxPoint x="982" y="710" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="m16" value="16.更新项目审批状态" style="endArrow=block;html=1;rounded=0;fontSize=14;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="732" y="755" as="sourcePoint"/><mxPoint x="1230" y="755" as="targetPoint"/></mxGeometry></mxCell>
-        <mxCell id="m17" value="17.写入项目状态" style="endArrow=block;html=1;rounded=0;fontSize=14;" edge="1" parent="1"><mxGeometry relative="1" as="geometry"><mxPoint x="1230" y="795" as="sourcePoint"/><mxPoint x="1460" y="795" as="targetPoint"/></mxGeometry></mxCell>
+        <mxCell id="l0" value="" style="endArrow=none;html=1;dashed=1;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="115" as="sourcePoint" />
+            <mxPoint x="55" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1" value="" style="endArrow=none;html=1;dashed=1;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="100" as="sourcePoint" />
+            <mxPoint x="245" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2" value="" style="endArrow=none;html=1;dashed=1;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="100" as="sourcePoint" />
+            <mxPoint x="485" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l3" value="" style="endArrow=none;html=1;dashed=1;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="732" y="100" as="sourcePoint" />
+            <mxPoint x="732" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4" value="" style="endArrow=none;html=1;dashed=1;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="982" y="100" as="sourcePoint" />
+            <mxPoint x="982" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l5" value="" style="endArrow=none;html=1;dashed=1;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="100" as="sourcePoint" />
+            <mxPoint x="1230" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6" value="" style="endArrow=none;html=1;dashed=1;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="100" as="sourcePoint" />
+            <mxPoint x="1460" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1" value="1.选择项目并提交审批" style="endArrow=block;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="130" as="sourcePoint" />
+            <mxPoint x="245" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m2" value="2.发送提交审批请求" style="endArrow=block;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="165" as="sourcePoint" />
+            <mxPoint x="485" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m3" value="3.调用提交审批方法" style="endArrow=block;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="200" as="sourcePoint" />
+            <mxPoint x="732" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m4" value="4.更新项目状态为待审批" style="endArrow=block;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="732" y="240" as="sourcePoint" />
+            <mxPoint x="1230" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m5" value="5.写入项目状态" style="endArrow=block;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="280" as="sourcePoint" />
+            <mxPoint x="1460" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6" value="6.返回更新结果" style="endArrow=block;html=1;rounded=0;dashed=1;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="315" as="sourcePoint" />
+            <mxPoint x="1230" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m7" value="7.生成审批记录" style="endArrow=block;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="732" y="360" as="sourcePoint" />
+            <mxPoint x="982" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m8" value="8.保存审批记录" style="endArrow=block;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="982" y="400" as="sourcePoint" />
+            <mxPoint x="1460" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m9" value="9.返回保存结果" style="endArrow=block;html=1;rounded=0;dashed=1;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="435" as="sourcePoint" />
+            <mxPoint x="982" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m10" value="10.返回提交结果" style="endArrow=block;html=1;rounded=0;dashed=1;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="732" y="485" as="sourcePoint" />
+            <mxPoint x="485" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m11" value="11.刷新项目审批状态" style="endArrow=block;html=1;rounded=0;dashed=1;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="525" as="sourcePoint" />
+            <mxPoint x="245" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m12" value="12.查看待审批项目并提交审批结果" style="endArrow=block;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="575" as="sourcePoint" />
+            <mxPoint x="245" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m13" value="13.发送审批通过/驳回请求" style="endArrow=block;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="620" as="sourcePoint" />
+            <mxPoint x="485" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m14" value="14.调用审批处理方法" style="endArrow=block;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="665" as="sourcePoint" />
+            <mxPoint x="732" y="665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m15" value="15.保存审批意见和审批结果" style="endArrow=block;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="732" y="710" as="sourcePoint" />
+            <mxPoint x="982" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m16" value="16.更新项目审批状态" style="endArrow=block;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="732" y="755" as="sourcePoint" />
+            <mxPoint x="1230" y="755" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m17" value="17.写入项目状态" style="endArrow=block;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="795" as="sourcePoint" />
+            <mxPoint x="1460" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
