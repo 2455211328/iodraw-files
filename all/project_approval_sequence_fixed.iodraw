@@ -81,10 +81,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m3" value="3.调用提交审批方法" style="endArrow=block;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="m3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;3.调用提交审批方法&lt;/font&gt;" style="endArrow=block;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
+          <mxGeometry x="-0.0121" y="10" relative="1" as="geometry">
             <mxPoint x="485" y="200" as="sourcePoint" />
             <mxPoint x="732" y="200" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m4" value="4.更新项目状态为待审批" style="endArrow=block;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
