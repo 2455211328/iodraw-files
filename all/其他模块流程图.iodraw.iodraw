@@ -215,13 +215,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ogQ9NlXD_Jeje5wJcnEa-65" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;项目资料管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-135.15" y="1553" width="134" height="50" as="geometry" />
+          <mxGeometry x="-132.4" y="1553" width="134" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ogQ9NlXD_Jeje5wJcnEa-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ogQ9NlXD_Jeje5wJcnEa-67" target="ogQ9NlXD_Jeje5wJcnEa-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ogQ9NlXD_Jeje5wJcnEa-67" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;新建或编辑&lt;br&gt;项目信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-138.65" y="1476" width="137.5" height="50" as="geometry" />
+          <mxGeometry x="-135.15" y="1475" width="137.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ogQ9NlXD_Jeje5wJcnEa-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ogQ9NlXD_Jeje5wJcnEa-71" target="ogQ9NlXD_Jeje5wJcnEa-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
