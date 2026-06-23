@@ -89,7 +89,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ogQ9NlXD_Jeje5wJcnEa-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;项目文件管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-130.65" y="1086" width="134" height="50" as="geometry" />
+          <mxGeometry x="-132.4" y="1086" width="134" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ogQ9NlXD_Jeje5wJcnEa-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ogQ9NlXD_Jeje5wJcnEa-28" target="ogQ9NlXD_Jeje5wJcnEa-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -507,7 +507,7 @@
           <mxGeometry x="253.9100000000001" y="2323" width="98.38" height="46" as="geometry" />
         </mxCell>
         <mxCell id="jEsuPj79dN5IdWt3MWt2-0" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;选择操作类型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-331.19" y="1039" width="134" height="50" as="geometry" />
+          <mxGeometry x="-331.19" y="1029" width="134" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
