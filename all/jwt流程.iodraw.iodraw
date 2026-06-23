@@ -134,8 +134,8 @@
         <mxCell id="_1FU85oInXOLHEhVHKJ8-0" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="217" y="98" width="78.5" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="_1FU85oInXOLHEhVHKJ8-2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="227" y="108" width="78.5" height="41" as="geometry" />
+        <mxCell id="_1FU85oInXOLHEhVHKJ8-2" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="508.5" y="679" width="78.5" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
