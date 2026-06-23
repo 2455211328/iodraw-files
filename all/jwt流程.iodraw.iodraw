@@ -128,8 +128,14 @@
             <mxPoint x="106" y="272" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_1FU85oInXOLHEhVHKJ8-0" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="218" y="97" width="78.5" height="41" as="geometry" />
+        <mxCell id="_1FU85oInXOLHEhVHKJ8-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1FU85oInXOLHEhVHKJ8-0" target="8VDL_8lLni37mP1QSY4k-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_1FU85oInXOLHEhVHKJ8-0" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="217" y="98" width="78.5" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="_1FU85oInXOLHEhVHKJ8-2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="227" y="108" width="78.5" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
