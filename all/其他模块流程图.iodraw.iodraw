@@ -312,7 +312,7 @@
           <mxGeometry x="373.0976086956524" y="1453.005" as="geometry" />
         </mxCell>
         <mxCell id="ogQ9NlXD_Jeje5wJcnEa-96" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Y&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
-          <mxGeometry x="495.0532436162872" y="1628.3154761904757" as="geometry">
+          <mxGeometry x="491.0032436162872" y="1628.3154761904757" as="geometry">
             <mxPoint x="-116" y="-233" as="offset" />
           </mxGeometry>
         </mxCell>
