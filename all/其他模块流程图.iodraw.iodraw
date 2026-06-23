@@ -397,7 +397,7 @@
         <mxCell id="ogQ9NlXD_Jeje5wJcnEa-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ogQ9NlXD_Jeje5wJcnEa-125" target="ogQ9NlXD_Jeje5wJcnEa-128" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ogQ9NlXD_Jeje5wJcnEa-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ogQ9NlXD_Jeje5wJcnEa-125" target="ogQ9NlXD_Jeje5wJcnEa-126" edge="1">
+        <mxCell id="ogQ9NlXD_Jeje5wJcnEa-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ogQ9NlXD_Jeje5wJcnEa-125" target="ogQ9NlXD_Jeje5wJcnEa-126" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ogQ9NlXD_Jeje5wJcnEa-125" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;后续节点是否审批&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -425,7 +425,7 @@
           <mxGeometry x="643.2100000000002" y="1884" width="186.31" height="53" as="geometry" />
         </mxCell>
         <mxCell id="ogQ9NlXD_Jeje5wJcnEa-133" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;N&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
-          <mxGeometry x="381.0976086956524" y="1410.995" as="geometry">
+          <mxGeometry x="385.9976086956524" y="1380.0049999999999" as="geometry">
             <mxPoint x="-118" y="734" as="offset" />
           </mxGeometry>
         </mxCell>
